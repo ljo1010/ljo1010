@@ -7,7 +7,7 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljo1010&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://YOUR_VERCEL_URL/api?username=ljo1010&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 연락
 이메일 - ljo111004@naver.com

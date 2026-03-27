@@ -102,6 +102,13 @@
 
 <br/>
 
+<!-- Gitanimals -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ljo1010" width="100%" />
+</a>
+
+<br/>
+
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 

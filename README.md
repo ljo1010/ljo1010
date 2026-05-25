@@ -93,7 +93,6 @@
 
 <br/>
 
-<samp>"목표: Game of the Year 크레딧에 내 이름을 올리는 것"</samp>
 
 <br/><br/>
 
